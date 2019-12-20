@@ -30,7 +30,7 @@ Crear usuarios
 
 Abrir una terminal ubicada en 
 
-### "/backend/"
+### `/backend/`
 
 ### `npm install`
 
@@ -38,7 +38,7 @@ Abrir una terminal ubicada en
 
 En otra terminal ubicado en 
 
-### "/frontend/"
+### `/frontend/`
 
 ### `npm install`
 
