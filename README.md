@@ -28,17 +28,21 @@ Crear usuarios
 
 ## Para intalar 
 
-Abrir una terminal ubicada en 
+Abrir una terminal ubicado en: 
 
 ### `/backend/`
+
+Ingresar los siguientes codigos:
 
 ### `npm install`
 
 ### `npm rund dev`
 
-En otra terminal ubicado en 
+En otra terminal ubicado en:
 
 ### `/frontend/`
+
+Ingresar los siguientes codigos:
 
 ### `npm install`
 
